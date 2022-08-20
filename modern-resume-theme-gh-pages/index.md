@@ -1,3 +1,6 @@
+$ git add --all
+$ git commit -m "Initial resume setup"
+$ git push -u origin master
 ---
 #
 # By default, content added below the "---" mark will appear in the home page
